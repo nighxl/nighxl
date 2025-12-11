@@ -100,9 +100,9 @@ I am a recent Computer Science Engineering graduate with a strong foundation in 
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nighxl&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nighxl&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=nighxl&theme=radical&mode=weekly)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nighxl&layout=compact&theme=radical)
 ---
 
 ### 📫 Connect with Me
