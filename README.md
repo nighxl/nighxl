@@ -44,7 +44,7 @@ I am a recent Computer Science Engineering graduate with a strong foundation in 
 **Developer Intern @ TREUS AI TRADING SOLUTIONS PVT LTD**
 *Sep 2025 - Present*
 * Built production-level web modules using React (TypeScript), Django, and PostgreSQL.
-* Created 8+ REST API endpoints with role-based authentication and secure login flows.
+* Created 10+ REST API endpoints with role-based authentication and secure login flows.
 * Implemented search, filters, pagination, email notifications, and activity logs.
 
 **PowerApps & SharePoint Intern @ Gr8 Global**
@@ -100,8 +100,8 @@ I am a recent Computer Science Engineering graduate with a strong foundation in 
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your_GitHub_Username]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your_GitHub_Username]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nighxl&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nighxl&layout=compact&theme=radical)
 
 ---
 
